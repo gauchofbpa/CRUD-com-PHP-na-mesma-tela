@@ -1,0 +1,16 @@
+#body {
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.div_separadora_create {
+    display: inline-block;
+    margin-right: 160px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50px;
+}
+.div_separadora_update {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 50px;
+}
